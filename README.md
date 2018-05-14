@@ -13,7 +13,7 @@ Basic algorithms in Computer Science mathamatics (Discrete Mathamatics)
    Usage :Replace Your array with arr array and run it, `static  int [] arr ={3, 10, 2, 1, 20,4,56,78,90};`
 
 
-<b>Pancake Problem</b>
+<b>2. Pancake Problem</b>
 
 Suppose you are given a stack of n pancakes of different sizes. You want to sort the
 pancakes so that smaller pancakes are on top of larger pancakes. The only operation you
